@@ -6,18 +6,18 @@ two_digit_number = input("Type a two digit number: ")
 #Solution 1
 a = int(two_digit_number[0])
 b = int(two_digit_number[1])
-c = a+b
-print(c)
+two_digit_number = a+b
+print(two_digit_number)
 
 #Solution 2
 a = two_digit_number[0]
 b = two_digit_number[1]
-c = int(a) + int(b)
-print(c)
+two_digit_number = int(a) + int(b)
+print(two_digit_number)
 
 #Solution 3
-c = int(two_digit_number[0]) + int(two_digit_number[1])
-print(c)
+two_digit_number = int(two_digit_number[0]) + int(two_digit_number[1])
+print(two_digit_number)
 
 
 #Notes
