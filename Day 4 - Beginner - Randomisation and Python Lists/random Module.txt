@@ -1,0 +1,14 @@
+import random
+# import my_module
+
+random_num = random.randint(100, 1000)
+print(random_num)
+
+# print(my_module.pi)
+
+#Generates 0 - 1 floating numbers. Multiply by 5 to extend the value
+random_float = random.random() * 5
+print(random_float)
+
+# LESSON 41
+Time: 7:00
