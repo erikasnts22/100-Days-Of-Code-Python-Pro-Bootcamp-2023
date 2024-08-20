@@ -36,6 +36,7 @@ for char in range(0, nr_numbers):
 
 print(password_list)
 random.shuffle(password_list)
+
 print(password_list)
 
 password = ""
